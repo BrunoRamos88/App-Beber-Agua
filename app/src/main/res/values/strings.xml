@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Beber Agua</string>
+    <string name="drink_water_tip">Clique no copo toda vez que beber um copo de água.</string>
+    <string name="description_water_cup">Copo de Água</string>
+</resources>
